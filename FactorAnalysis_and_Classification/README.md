@@ -6,7 +6,7 @@ In the context of market research, for instance, factor analysis can help organi
 
 For example, a survey measuring consumer attitudes might reveal factors such as "product quality," "customer service," and "brand loyalty," providing actionable insights that can guide strategic initiatives. 
 
-In this notebook, we will demonstrate how factor analysis can transform raw data into meaningful insights, by exploratory factor analysis (EFA). We will also explore the interpretation of results, empowering you to make data-informed decisions that enhance business performance.
+In this notebook, I will demonstrate how factor analysis can transform raw data into meaningful insights, by exploratory factor analysis (EFA). we will also explore the interpretation of results, empowering you to make data-informed decisions that enhance business performance.
 
 ## Classification: Making Data-Driven Predictions 📊
 
@@ -16,4 +16,4 @@ In a typical classification scenario, we use labeled datasets to train models th
 
 For instance, a financial institution might implement a classification model to detect fraudulent transactions, allowing them to respond proactively and minimize losses. By leveraging algorithms such as logistic regression, decision trees, and random forests, businesses can create robust models that provide reliable predictions.
 
-In this notebook, we will explore one of the classification methods, assess their performance using metrics such as accuracy and precision, and demonstrate their practical applications in real-world scenarios. By highlighting the power of classification, this work sample showcases how we can utilize data to drive strategic initiatives and improve operational efficiency.
+In this notebook, I will explore one of the classification methods, assess their performance using metrics such as accuracy and precision, and demonstrate their practical applications in real-world scenarios. By highlighting the power of classification, this work sample showcases how we can utilize data to drive strategic initiatives and improve operational efficiency.
