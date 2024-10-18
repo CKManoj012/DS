@@ -7,4 +7,4 @@ In an A/B test, we divide a sample of users into distinct groups: one group inte
 
 For example, a retail website might conduct an A/B test to evaluate two different layouts of a product page to determine which design leads to higher sales. By analyzing user behavior and conversion metrics, we can provide actionable insights that inform future design decisions and marketing strategies.
 
-In this notebook, we will showcase the A/B testing methodology, including best practices for experiment design, statistical analysis of results, and interpretation of findings. By highlighting the practical applications of A/B testing, this work sample demonstrates how we can leverage data to make informed business decisions that drive success and growth.
+In this notebook, I will showcase the A/B testing methodology, including best practices for experiment design, statistical analysis of results, and interpretation of findings. By highlighting the practical applications of A/B testing, this work sample demonstrates how we can leverage data to make informed business decisions that drive success and growth.
