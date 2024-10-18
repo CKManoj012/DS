@@ -1,4 +1,4 @@
-👋 Welcome to My Data Science Portfolio! 
+**👋 Welcome to My Data Science Portfolio! 
 
 I'm a Data Scientist with a passion for turning raw data into actionable insights. My work bridges the gap between data and decision-making, blending creativity with analytical rigor to solve real-world business problems. From predictive modeling and machine learning to deep dives into customer segmentation, time series forecasting, and market basket analysis — my projects are designed to showcase the full spectrum of my data science skills.
 
@@ -17,3 +17,4 @@ On this GitHub, you’ll find code implementations of key use cases across multi
 Beyond code, I believe in data-driven decision making and continuously learning new tools and techniques to sharpen my expertise. I am committed to writing clean, efficient, and scalable code that makes data insights accessible to all.
 
 Let’s collaborate and make data work for us! 🚀
+**
