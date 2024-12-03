@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** with a passion for turning raw data into actionable insights. My work bridges the gap between data and decision-making, blending creativity with analytical rigor to solve real-world business problems. From **predictive modeling** and **machine learning** to deep dives into **customer segmentation**, **time series forecasting**, and **market basket analysis** — my projects are designed to showcase the full spectrum of my data science skills.
 
-There are also samples of Text Analytics and Generative AI, where I have demonstrated some use cases where power of LLM's are leveraged.
+There are also samples of **Text Analytics** , **Deep Learning(ANN, RNN)** and  **Generative AI**, where I have demonstrated some use cases where power of LLM's are leveraged.
 I have used LangChain, HuggingFace, Pinocone and OpenAI APIs to build these samples.
 
 On this GitHub, you’ll find code implementations of key use cases across multiple domains, such as:
@@ -16,6 +16,8 @@ On this GitHub, you’ll find code implementations of key use cases across multi
 - 📊 **Survey Analysis**: Extract actionable insights from customer feedback to drive smarter decisions.
   
 - 💡 **Financial Analytics**: Apply advanced models for portfolio optimization and risk assessment.
+
+- 🎞️ **Sentiment Analysis** : Here I have demonstrated cases where deep learning models are used in classifying the sentiment of a movie review.
 
 - 💬 **Conversational AI Chatbot**: Chatbot where LLMs are used in generating responses for the custom document data.
 
